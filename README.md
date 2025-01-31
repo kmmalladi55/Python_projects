@@ -2,7 +2,6 @@
 All these projects completed while doing PG course in AIML. 
 Used Python, various python data-science related libraries like numpy, panda,seaborn, NPL and many more.
 GUI Tool used: Jupytor notebook.
-Project Work Completed part of the PG course
 
 Course: Introduction to Natural Language Processing
 Objective: Identify sentiment from tweets to assess airline customer satisfaction.
